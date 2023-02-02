@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Complementario</string>
+    <string name="resultado">Resultado:</string>
+    //<string name="nombre">Digitar nombre:</string>
+    <string name="num1">Digite el primer número: </string>
+    <string name="num2">Digite el segundo número: </string>
+    <string name="suma">Sumar</string>
+</resources>
