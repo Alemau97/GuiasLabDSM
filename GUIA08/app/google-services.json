@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "832542117017",
+    "firebase_url": "https://fir-dbrealtime-b12b8-default-rtdb.firebaseio.com",
+    "project_id": "fir-dbrealtime-b12b8",
+    "storage_bucket": "fir-dbrealtime-b12b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832542117017:android:c19480212fdb3f9285fc08",
+        "android_client_info": {
+          "package_name": "com.example.guia8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832542117017-b6s9rgs197djqjv16qmadblmg0vh7gq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKY-sxUwGaOn9hblvQw2kpP-QJiQCYEkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832542117017-b6s9rgs197djqjv16qmadblmg0vh7gq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832542117017:android:c44e1017846a1dad85fc08",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.guia08app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832542117017-b6s9rgs197djqjv16qmadblmg0vh7gq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKY-sxUwGaOn9hblvQw2kpP-QJiQCYEkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832542117017-b6s9rgs197djqjv16qmadblmg0vh7gq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
