@@ -22,13 +22,13 @@ class PersonasActivity : AppCompatActivity() {
 
     protected override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(sv.edu.udb.guia08app.R.layout.activity_personas)
+        setContentView(R.layout.activity_personas)
         inicializar()
     }
 
     private fun inicializar() {
-        val fab_agregar: FloatingActionButton = findViewById<FloatingActionButton>(sv.edu.udb.guia08app.R.id.fab_agregar)
-        listaPersonas = findViewById<ListView>(sv.edu.udb.guia08app.R.id.ListaPersonas)
+        val fab_agregar: FloatingActionButton = findViewById<FloatingActionButton>(R.id.fab_agregar)
+        listaPersonas = findViewById<ListView>(R.id.ListaPersonas)
 
         // Cuando el usuario haga clic en la lista (para editar registro)
         listaPersonas!!.setOnItemClickListener(object : AdapterView.OnItemClickListener {
